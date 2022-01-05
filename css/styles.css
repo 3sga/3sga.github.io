@@ -94,18 +94,18 @@
  * ------------------------------------------------------------------- */
 :root {
 
-    /* color-1(#24A89B)
+    /* color-1(#24A89B-->#002387)
      * color-2(#eddea4)
      */
-    --color-1                      : hsla(174, 65%, 40%, 1);
+    --color-1                      : hsla(224, 100%, 26%, 1);
     --color-2                      : hsla(48, 67%, 79%, 1);
 
     /* theme color variations
      */
-    --color-1-lighter              : hsla(174, 65%, 60%, 1);
-    --color-1-light                : hsla(174, 65%, 50%, 1);
-    --color-1-dark                 : hsla(174, 65%, 35%, 1);
-    --color-1-darker               : hsla(174, 65%, 20%, 1);
+    --color-1-lighter              : hsla(224, 100%, 55%, 1);
+    --color-1-light                : hsla(224, 100%, 35%, 1);
+    --color-1-dark                 : hsla(224, 100%, 20%, 1);
+    --color-1-darker               : hsla(224, 100%, 10%, 1);
     --color-2-lighter              : hsla(48, 67%, 99%, 1);
     --color-2-light                : hsla(48, 67%, 89%, 1);
     --color-2-dark                 : hsla(48, 67%, 69%, 1);
