@@ -181,7 +181,7 @@
 
     /* others
      */
-    --color-body                   : var(--color-gray-1);
+    --color-body                   : var(--color-gray-12);
     --color-border                 : rgba(255, 255, 255, .05);
     --border-radius                : 3px;
 }
@@ -2762,7 +2762,7 @@ img.u-pull-left {
     font-family    : var(--font-2);
     font-size      : var(--text-sm);
     font-weight    : 600;
-    color          : var(--color-body);
+    color          : var(--color-gray-1);
     text-transform : uppercase;
     letter-spacing : .3em;
     margin-top     : 0;
