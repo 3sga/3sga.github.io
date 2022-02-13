@@ -2772,7 +2772,7 @@ img.u-pull-left {
 }
 
 .section-header--dark .text-pretitle {
-    color : var(--color-1);
+    color : var(--color-1-light);
 }
 
 .text-display-title {
