@@ -2772,7 +2772,7 @@ img.u-pull-left {
 }
 
 .section-header--dark .text-pretitle {
-    color : var(--color-1-light);
+    color : var(--color-1-lighter);
 }
 
 .text-display-title {
@@ -4004,7 +4004,7 @@ img.u-pull-left {
     font-size   : calc(var(--text-size) * 0.9444);
     font-weight : 400;
     line-height : var(--vspace-0_75);
-    color       : var(--color-1-light);
+    color       : var(--color-1-lighter);
 }
 
 .testimonial-slider__cite span {
