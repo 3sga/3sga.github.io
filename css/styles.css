@@ -3292,7 +3292,7 @@ img.u-pull-left {
     font-weight      : 300;
     font-size        : calc(var(--text-size) * 1.1111);
     line-height      : var(--vspace-1_25);
-    color            : var(--color-text-light);
+    color            : var(--color-white);
     margin-top       : calc(var(--vspace-3) * -1);
     margin-bottom    : var(--vspace-3_5);
     padding          : var(--vspace-2_5) var(--vspace-3) var(--vspace-2);
